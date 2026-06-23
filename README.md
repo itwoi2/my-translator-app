@@ -1,5 +1,4 @@
 # my-translator-app
-For test at 20260623
 create and start datetime:2026/06/23 05:41 UTC+8
 end datetime:2026/06/23 08:41 UTC+8
 
